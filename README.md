@@ -1,5 +1,4 @@
 <img height="120px" src="https://d33wubrfki0l68.cloudfront.net/5d2e88eb1e2b69f3f8b3a3372b6e4b3b4f095130/2159b/hero.png" />
-<br>
 
 ## Awesome Fractal [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
