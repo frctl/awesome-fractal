@@ -10,6 +10,10 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Offical Adapters](#official-adapters)
+- [Unofficial Adapters](#unofficial-adapters)
+- [Mentions of Fractal](#mentions-of-fractal)
+- [Showcase](#showcase)
 
 ### Official Resources
 
@@ -20,6 +24,33 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 - [Twitter](https://twitter.com/frctl)
 - [Slack](https://slack.fractal.build)
+
+### Official Adapters
+
+- [Handlebars](https://github.com/frctl/handlebars)
+- [Twig [WIP]](https://github.com/frctl/twig)
+- [Nunjucks](https://github.com/frctl/nunjucks)
+- [Mustache](https://github.com/frctl/mustache)
+- [React [WIP]](https://github.com/frctl/react-adapter)
+
+### Unofficial Adapters
+- [Vue](https://github.com/swey/fractal-vue-adapter)
+
+### Mentions Of Fractal
+- [Smashing Magazine: Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css)
+- [Creative Bloq]: Document your design systems with Fractal](https://www.creativebloq.com/how-to/document-your-design-systems-with-fractal)
+- [Rachel Andrew: Rebuilding the Perch UI - creating a pattern library](https://rachelandrew.co.uk/archives/2016/05/06/rebuilding-the-perch-ui-creating-a-pattern-library)
+
+### Showcase
+- [City of Boston](https://patterns.boston.gov)
+- [City of Ghent](https://stijlgids.stad.gent/v2)
+- [Kanbasu](https://kanbasu.liip.ch/2)
+- [Clearleft](http://fractal.clearleft.com)
+- [Perch](http://patterns.perchcms.com)
+- [Liip](https://styleguide.liip.ch/)
+- [24 Ways](https://bits.24ways.org)
+- [U.S. Web Design System](https://components.designsystem.digital.gov)
+- [Eurostar](https://style.eurostar.com)
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
