@@ -38,7 +38,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 ### Mentions Of Fractal
 - [Smashing Magazine: Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css)
-- [Creative Bloq]: Document your design systems with Fractal](https://www.creativebloq.com/how-to/document-your-design-systems-with-fractal)
+- [Creative Bloq: Document your design systems with Fractal](https://www.creativebloq.com/how-to/document-your-design-systems-with-fractal)
 - [Rachel Andrew: Rebuilding the Perch UI - creating a pattern library](https://rachelandrew.co.uk/archives/2016/05/06/rebuilding-the-perch-ui-creating-a-pattern-library)
 
 ### Showcase
