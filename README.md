@@ -9,6 +9,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Unofficial Resources](#unofficial-resources)
 - [Community](#community)
 - [Offical Adapters](#official-adapters)
 - [Unofficial Adapters](#unofficial-adapters)
@@ -19,6 +20,9 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 - [Fractal Website](https://fractal.build/)
 - [GitHub Repo](https://github.com/frctl/fractal)
+
+### Unofficial Resources
+- [Fractal Folder VSCode Extension](https://marketplace.visualstudio.com/items?itemName=baerkins.new-fractal-folder)
 
 ### Community
 
