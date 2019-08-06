@@ -57,6 +57,12 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 - [Eurostar](https://style.eurostar.com)
 - [V&A Museum, London](https://vam-design-guide.surge.sh/)
 
+### Subtheme
+- [Mono](https://github.com/AccentDesign/Mono) - Fractal subtheme, built upon the default Mandelbrot theme
+
+### Starter Project
+- [Fractal Atomic](https://github.com/AccentDesign/Fractal-Atomic) - Awesome starter point for your Fractal UI component library based on Atomic Design principles
+
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
