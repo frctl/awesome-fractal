@@ -27,7 +27,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 ### Community
 
 - [Twitter](https://twitter.com/frctl)
-- [Slack](https://slack.fractal.build)
+- [Discord](https://discord.gg/vuRz4Yx)
 
 ### Official Adapters
 
