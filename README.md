@@ -39,6 +39,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 ### Unofficial Adapters
 - [Vue](https://github.com/swey/fractal-vue-adapter)
+- [React + TypeScript](https://github.com/gtap-dev/fractal-tsx-adapter)
 
 ### Mentions Of Fractal
 - [Smashing Magazine: Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css)
@@ -56,9 +57,11 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 - [U.S. Web Design System](https://components.designsystem.digital.gov)
 - [Eurostar](https://style.eurostar.com)
 - [V&A Museum, London](https://vam-design-guide.surge.sh/)
+- [gotoAndPlay](https://play.ee/styleguide/)
 
 ### Subtheme
 - [Mono](https://github.com/AccentDesign/Mono) - Fractal subtheme, built upon the default Mandelbrot theme
+- [Nighthawk](https://github.com/gtap-dev/nighthawk) - A custom web UI theme for Fractal, based on Mandelbrot
 
 ### Starter Project
 - [Fractal Atomic](https://github.com/AccentDesign/Fractal-Atomic) - Awesome starter point for your Fractal UI component library based on Atomic Design principles
