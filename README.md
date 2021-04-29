@@ -48,13 +48,11 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 
 ### Showcase
 - [City of Boston](https://patterns.boston.gov)
-- [City of Ghent](https://stijlgids.stad.gent/v2)
+- [City of Ghent](https://stijlgids.stad.gent)
 - [Kanbasu](https://kanbasu.liip.ch/2)
 - [Clearleft](http://fractal.clearleft.com)
-- [Perch](http://patterns.perchcms.com)
 - [Liip](https://styleguide.liip.ch/)
 - [24 Ways](https://bits.24ways.org)
-- [U.S. Web Design System](https://components.designsystem.digital.gov)
 - [Eurostar](https://style.eurostar.com)
 - [V&A Museum, London](https://vam-design-guide.surge.sh/)
 - [gotoAndPlay](https://play.ee/styleguide/)
