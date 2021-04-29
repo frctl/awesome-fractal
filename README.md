@@ -35,7 +35,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 - [Twig](https://github.com/frctl/fractal/tree/main/packages/twig)
 - [Nunjucks](https://github.com/frctl/fractal/tree/main/packages/nunjucks)
 - [Mustache](https://github.com/frctl/mustache)
-- [React [WIP]](https://github.com/frctl/react-adapter)
+- [React](https://github.com/frctl/fractal/tree/main/packages/react)
 
 ### Unofficial Adapters
 - [Vue](https://github.com/swey/fractal-vue-adapter)
