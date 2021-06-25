@@ -40,6 +40,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 ### Unofficial Adapters
 - [Vue](https://github.com/swey/fractal-vue-adapter)
 - [React + TypeScript](https://github.com/gtap-dev/fractal-tsx-adapter)
+- [Svelte](https://github.com/aredridel/fractal-svelte-adapter)
 
 ### Mentions Of Fractal
 - [Smashing Magazine: Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css)
