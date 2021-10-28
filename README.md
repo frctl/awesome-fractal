@@ -57,6 +57,7 @@ Fractal is a tool for creating powerful component libraries & styleguides that f
 - [Eurostar](https://style.eurostar.com)
 - [V&A Museum, London](https://vam-design-guide.surge.sh/)
 - [gotoAndPlay](https://play.ee/styleguide/)
+- [UCLA](https://webcomponents.ucla.edu/)
 
 ### Subtheme
 - [Mono](https://github.com/AccentDesign/Mono) - Fractal subtheme, built upon the default Mandelbrot theme
